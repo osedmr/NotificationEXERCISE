@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style  name="custom_button" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:backgroundTint">@color/yellow</item>
+        <item name="icon">@drawable/ic_launcher_foreground</item>
+        <item name="iconSize">25dp</item>
+        <item name="iconPadding">4dp</item>
+        <item name="iconGravity">textStart</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
